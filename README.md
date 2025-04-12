@@ -2,22 +2,26 @@
 
 Is a Flutter-based mobile application designed to manage the delivery of goods between multiple users with specific roles. The app supports four distinct user types:
 
-Customer / Vendor: Can create delivery orders to send goods.
+Customer / Vendor can create orders to send goods.
 
-Driver: Picks up goods from Customers or Vendors and delivers them to the designated Receiver.
+Driver picks up goods from Customers or Vendors and delivers them to the designated Receiver.
 
-Receiver: Receives the goods and verifies the delivery using a unique order number.
+Driver can scan order barcode.
 
-🔧 Key Features
-Role-based authentication and navigation.
+Real-time notifications to driver when new shipment is ordered.
 
-Order creation, pickup, delivery, and tracking.
+Receiver receives the goods and verifies the delivery using a unique order number.
 
-Order verification by the receiver using a unique order code.
 
-Clean and scalable Flutter architecture.
 
-Responsive UI designed for each user type.
+
+- Key Features :-
+  - Role-based authentication and navigation.
+  - Order creation, pickup, delivery, and tracking.
+  - Order verification by the receiver using a unique order code.
+  - Clean and scalable Flutter architecture.
+  - Responsive UI designed for each user type.
+
 
 
 - Techhnologies used :-
